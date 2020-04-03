@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularCrashCourse"
+    }
+  },
+  "defaultProject": "angularCrashCourse",
+  "cli": {
+    "analytics": false
+  }
 }
